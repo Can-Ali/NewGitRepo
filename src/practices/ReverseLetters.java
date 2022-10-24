@@ -36,6 +36,4 @@ public class ReverseLetters {
                 return word;
     }
 
-
-    //burda ada degisiklik yaptik
 }
